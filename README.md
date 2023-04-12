@@ -15,7 +15,7 @@ Within this assignment, I learned how to use Javascript in retreiving data and p
  
  ![Mapimage](https://github.com/djthapa22/leaflet-challenge/blob/main/Starter_Code/Resources/Screenshot%202023-04-11%20at%208.45.48%20PM.png)
  
-<ins> Special Thanks to Caleb Steeves: </ins> <br>
+**<ins> Special Thanks to Caleb Steeves: </ins>** <br>
 With helping me understand how the legend fits into the HTML, with difference from class example.
 
 
