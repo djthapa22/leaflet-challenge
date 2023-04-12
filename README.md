@@ -13,11 +13,10 @@ Within this assignment, I learned how to use Javascript in retreiving data and p
   * Create a legend that will provide context for your map data.
  
  
- [Map image!](https://github.com/djthapa22/leaflet-challenge/blob/main/Starter_Code/Resources/Screenshot%202023-04-11%20at%208.45.48%20PM.png)
+ ![Mapimage](https://github.com/djthapa22/leaflet-challenge/blob/main/Starter_Code/Resources/Screenshot%202023-04-11%20at%208.45.48%20PM.png)
  
-<ins> Special Thanks: </ins> <br>
-Caleb Steeves in helping me figure out the legen and how to correctly add it to HTML!
-
+<ins> Special Thanks to Caleb Steeves: </ins> <br>
+With helping me understand how the legend fits into the HTML, with difference from class example.
 
 
 
